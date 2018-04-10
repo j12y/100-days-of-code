@@ -188,12 +188,113 @@ Next time, I'll start with docs for "How to Write Go Code"
 - https://hackernoon.com/golang-the-highest-paying-technology-to-know-9c6089d7081d
 - https://golang.org/doc/code.html
 
+## Day 002: MON APR 9 2018
 
+### Todays Progress
+
+- Started going through some online learning / books / tutorials
+
+### Thoughts
+
+Will be approaching this initiative in two ways primarily:
+
+1. Top-Down deep dive into learning language from tutorials / guides / books /
+   videos / etc.
+2. Working on projects and just-in-time google, stack, etc. what I need to know
+   to make forward progress on a project.
+
+On the top-down front, did some initial searches across paid and free
+resources.
+
+**O'Reilly Safari**
+
+Usually this is my go-to resource for deep dive materials.  There are some
+learning paths ranging from 1-13 hours.
+
+- Learning Path: Go - Building Cloud Native Go Applications (4h)
+- Learning Path: Go - Advancing into Web Development with Go (12h 49m)
+- Learning Path: Go - Dynamic Web Development with Go (56m)
+- Introduction to Go Programming / John Graham-Cumming (5h 18m)
+- ...
+
+There are quite a few books (161) as well.  Here are a few of the more general
+sounding in no particular order.
+
+- Sam's Teach Yourself Go in 24 Hours by George Ornbo (Sams)
+- Go in Practice by Matt Farina and Matt Butcher (Manning)
+- Learning Go Programming by Vladimir Vivien (Packt)
+- The Go Programming Language by Alan Donovan and Brian Kernighan (Addison-Wesley)
+- Introducing Go by Caleb Doxsey (O'Reilly)
+- Go in Action by William Kennedy, Brian Ketelsen, Erik St. Martin (Manning)
+- Head First Go by Jay McGavren (O'Reilly)
+- ...
+
+**Pluralsight**
+
+Was curious what Pluralsight has available since I have access to it.  There
+does not appear to be a learning path, but there are 18 courses.
+
+- Code School: On Track wiht Golang (1h 15m)
+- Creating Web Applications with Go (4h 47m)
+- The Go Programming Language (4h 35m)
+- Go: Getting Started (1h 51m)
+- Go Fundamentals (3h 36m)
+- Building Distributed Applications with Go (3h 17m)
+- Concurrent Programming with Go (2h 36m)
+- ...
+
+**Official Resources**
+
+- The Go Tour
+- Effective Go
+
+**MOOCs**
+
+Looked for Coursera, edX, Udacity, and Udemy resources as well -- though some
+in the community seem to suggest just sticking with The Go Tour.
+
+**Curated Lists**
+
+Before commiting time to any of those, also wanted to look around at some other
+learning materials around the web others would recommend.
+
+I figured there would be an awesome-go list, and since these lists remind me of
+Yahoo circa 1996 I decided to take a look at these options.
+
+The github.com/golang/go/wiki also has a list of resources for getting started
+and learning specific topics.
+
+There are also some ranked tutorials from hackr.io/tutorials/learn-golang
+that could be worth reviewing since they are voted on by community..
+
+Also stumbled upon reactdom.com go-books listing which included a few
+additional online tutorials.
+
+I think I've reached the point of diminishing returns in seeking the best
+companion resource at this point.  Mark McGranaghan's gobyexample.com seems
+highly rated and is a good cookbook like approach to complement official tour.
+
+**Google it**
+
+Ultimately, for today's task all I needed was a sample of how to fetch data
+from an API endpoint by making a REST request.  Thankfully, Nic Raboy had
+posted a blog post with some sample code for doing that very thing.
+
+Task accomplished.
+
+### Links
+
+- https://awesome-go.com/
+- https://github.com/golang/go/wiki
+- https://hackr.io/tutorials/learn-golang
+- https://reactdom.com/blog/go-books
+- https://golang.org/doc/code.html
+- https://gobyexample.com/
 
 
 ---
 
-## 000: DAY APR d 2018
+## Day 000: DAY APR d 2018
 
 - https://github.com/j12y/check-last-commit
 
