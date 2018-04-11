@@ -292,6 +292,23 @@ Task accomplished.
 - https://gobyexample.com/
 - https://www.thepolyglotdeveloper.com/2017/07/consume-restful-api-endpoints-golang-application/
 
+## Day 003: TUE APR 10 2018
+
+### Todays Progress
+
+- Chose to review Sam's Teach Yourself Go in 24 Hours by George Ornbo (Sams)
+
+### Thoughts
+
+Mostly study and experimentation today, no major insights.
+
+### Links
+
+
+
+
+
+
 
 ---
 
