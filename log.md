@@ -296,18 +296,40 @@ Task accomplished.
 
 ### Todays Progress
 
-- Chose to review Sam's Teach Yourself Go in 24 Hours by George Ornbo (Sams)
+- Chose to review Sam's Teach Yourself Go in 24 Hours by George Ornbo
 
 ### Thoughts
 
-Mostly study and experimentation today, no major insights.
+Mostly study and experimentation today, no major insights.  Some time on
+StackOverflow.
 
 ### Links
 
+- https://stackoverflow.com/questions/tagged/go
 
+## Day 004: WED APR 11 2018
 
+### Todays Progress
 
+- Hour 2 & 3 of Sam's Teach Yourself Go in 24 (Understanding Types, Variables)
+- Watched original Go Programming Language introduction from Rob Pike
+- Made first submission on Leetcode with Golang as the language
 
+### Thoughts
+
+Was just looking to do some practice of the basics -- trying to do some of the
+problems from Leetcode in Go and Python and comparing performance.  Submitted
+first solution with Go as language.  It was an easy one though, Jewels and
+Stones but helpful practice of the language (and algorithms) nonetheless.
+
+Coming most recently from work in Python and not having done C in a very long
+time, a bit of adjusting to handle iterating over strings, typing nuances, etc.
+
+### Links
+
+- https://youtu.be/rKnDgT73v8s
+- http://leetcode.com/
+- https://stackoverflow.com/questions/19231506/go-golang-access-string-as-character-value
 
 
 ---
