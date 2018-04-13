@@ -331,6 +331,32 @@ time, a bit of adjusting to handle iterating over strings, typing nuances, etc.
 - http://leetcode.com/
 - https://stackoverflow.com/questions/19231506/go-golang-access-string-as-character-value
 
+## Day 005: THU APR 11 2018
+
+### Todays Progress
+
+- Hour 4 of Sam's Teach Yourself Go in 24 (Functions)
+- Some performance experiments
+
+### Thoughts
+
+Impressed by runtime performance difference of solving the same problem:
+* Go - 0 ms
+* Python - 40ms
+
+Though on closer inspection, wasn't comparing apples to oranges.  Changed
+Python example around a bit and then it performed better than the Go example.
+Then went back to re-run compiled Go version.
+
+* Go 0.001
+* Python 0.051
+
+### Links
+
+- none
+
+
+
 
 ---
 
