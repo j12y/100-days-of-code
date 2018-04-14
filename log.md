@@ -331,7 +331,7 @@ time, a bit of adjusting to handle iterating over strings, typing nuances, etc.
 - http://leetcode.com/
 - https://stackoverflow.com/questions/19231506/go-golang-access-string-as-character-value
 
-## Day 005: THU APR 11 2018
+## Day 005: THU APR 12 2018
 
 ### Todays Progress
 
@@ -355,6 +355,30 @@ Then went back to re-run compiled Go version.
 
 - none
 
+## Day 006: FRI APR 13 2018
+
+### Todays Progress
+
+- Hour 5 of Sam's Teach Yourself Go in 24 (Control flow)
+- Hour 6 of Sam's Teach Yourself Go in 24 (Arrays, Maps, Slices)
+- LeetCode Unique Morse Code Words in Go and Python
+
+### Thoughts
+
+Object Oriented Go...
+- maybe more so than C but less than Java
+- there are no "classes" or "objects" in Go
+    - structs holds state, but not behavior
+- there is no inheritance
+    - composition instead
+
+### Links
+
+- https://golang.org/doc/faq#Is_Go_an_object-oriented_language
+- https://flaviocopes.com/golang-is-go-object-oriented/ 
+- http://spf13.com/post/is-go-object-oriented/
+- https://medium.com/@cscalfani/goodbye-object-oriented-programming-a59cda4c0e53
+- https://golangbot.com/polymorphism/
 
 
 
