@@ -361,7 +361,7 @@ Then went back to re-run compiled Go version.
 
 - Hour 5 of Sam's Teach Yourself Go in 24 (Control flow)
 - Hour 6 of Sam's Teach Yourself Go in 24 (Arrays, Maps, Slices)
-- LeetCode Unique Morse Code Words in Go and Python
+- LeetCode Unique Morse Code Words
 
 ### Thoughts
 
@@ -380,13 +380,43 @@ Object Oriented Go...
 - https://medium.com/@cscalfani/goodbye-object-oriented-programming-a59cda4c0e53
 - https://golangbot.com/polymorphism/
 
+## Day 007: SAT APR 14 2018
+
+### Todays Progress
+
+- Hour 7 of Sam's Teach Yourself Go in 24 (Structs and Pointers)
+- Hour 8 of Sam's Teach Yourself Go in 24 (Methods and Interfaces)
+- Playing more with strings
+
+### Thoughts
+
+Research and learning (and sometimes unlearning).
+
+- rune(97)    // a  -- chr()
+- int('a')    // 97 -- ord()
+- string(97)  // a  -- str()
+
+A few more chapters in the book are needed before I can really make progress on
+structuring the real program I set to work out on.  Specifically a few details
+around channels, packages, and testing are still important for me to make
+significant improvement.
+
+Spent a bit of time browsing others going through the same process with
+intention of providing some encouragement tomorrow.
+
+### Links
+
+- https://opensource.com/article/17/9/seven-stages-becoming-go-programmer
+
+
+
 
 
 ---
 
 ## Day 000: DAY APR d 2018
 
-- https://github.com/j12y/check-last-commit
+- https://github.com/j12y/check-commitment
 
 ### Todays Progress
 
