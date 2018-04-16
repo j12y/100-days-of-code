@@ -408,6 +408,21 @@ intention of providing some encouragement tomorrow.
 
 - https://opensource.com/article/17/9/seven-stages-becoming-go-programmer
 
+## Day 008: SUN APR 15 2018
+
+### Todays Progress
+
+- Rest
+
+### Thoughts
+
+First week done, still checking in but not devoting much time to Golang and
+project(s) but rather tried to connect with others in #100DaysOfCode community
+to offer help where I could.
+
+### Links
+
+- N/A
 
 
 
