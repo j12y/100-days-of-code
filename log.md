@@ -424,6 +424,30 @@ to offer help where I could.
 
 - N/A
 
+## Day 009: MON APR 16 2018
+
+### Todays Progress
+
+- Hour 9 of Sam's Teach Yourself Go in 24 (Strings)
+- Hour 10 of Sam's Teach Yourself Go in 24 (Errors)
+- Codewars Kata (python)
+
+### Thoughts
+
+I seem to have put my project aside to study and practice today.
+
+When looking at codewars or leetcode, still find myself trying to solve it in
+python first and then re-write it in Go.
+
+### Links
+
+- https://www.codewars.com/
+- https://www.leetcode.com/
+
+
+
+
+
 
 
 
