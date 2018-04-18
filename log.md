@@ -444,6 +444,41 @@ python first and then re-write it in Go.
 - https://www.codewars.com/
 - https://www.leetcode.com/
 
+## Day 010: TUE APR 17 2018
+
+### Todays Progress
+
+- Hour 11 of Sam's Teach Yourself Go in 24 (Goroutines)
+- Hour 12 of Sam's Teach Yourself Go in 24 (Channels)
+
+### Thoughts
+
+I think I'm just about at the point where I have the knowledge to accomplish
+what I set out to do in the first place.  With Goroutines and Channels, I can
+fetch API results concurrently without blocking for each one so finish my
+github report quicker than introspecting repositories sequentially.
+
+Neat example:
+
+```
+var results = make([]Result, len(jobs))
+wg := sync.WaitGroup{}
+for i, job := range jobs {
+    wg.Add(1)
+    go func(i int, j job) {
+        defer wg.Done()
+        var r Result = doWork(j)
+        results[i] = r
+    }(i, job)
+}
+
+wg.Wait()
+```
+
+
+### Links
+
+- https://stackoverflow.com/questions/49879322/can-i-concurrently-write-different-slice-elements
 
 
 
